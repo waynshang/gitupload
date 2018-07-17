@@ -1,2 +1,2 @@
 # gitupload
-how to upload file to github
+how to upload files to github
